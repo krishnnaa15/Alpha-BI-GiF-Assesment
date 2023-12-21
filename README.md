@@ -24,4 +24,5 @@ In this technical test, the candidate is required to design and develop a Next.j
 
 # ScreenShot
 
-![Screenshot](https://github.com/ManishKr09/Alpha-BI---GiF-Hub/assets/134724965/981d7307-d263-437a-9935-eff65c0a1452)
+![Alpha BI ](https://github.com/krishnnaa15/Alpha-BI-GiF-Assesment/assets/141332207/d7a7ee7e-10a8-4195-a1b6-0f1b45012392)
+
